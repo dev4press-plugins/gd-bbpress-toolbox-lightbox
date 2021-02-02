@@ -11,8 +11,8 @@ class gdbbx_lightbox_core_plugin {
 	}
 
 	public function settings() {
-		if ( gdbbx_settings()->get( 'image_thumbnail_rel', 'attachments' ) != 'lightbox' ) {
-			gdbbx_settings()->set( 'image_thumbnail_rel', 'lightbox', 'attachments', true );
+		if ( gdbbx()->get( 'image_thumbnail_rel', 'attachments' ) != 'lightbox' ) {
+			gdbbx()->set( 'image_thumbnail_rel', 'lightbox', 'attachments', true );
 		}
 	}
 

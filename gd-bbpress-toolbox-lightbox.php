@@ -1,16 +1,21 @@
 <?php
 
 /*
-Plugin Name: GD bbPress Toolbox Pro: Lightbox
-Plugin URI: https://plugins.dev4press.com/gd-bbpress-toolbox/
-Description: Simple Lightbox implementation using responsive lightbox 'Swipebox' implementation for the GD bbPress Toolbox Pro attachments images.
-Version: 1.3
-Author: Milan Petrovic
-Author URI: https://www.dev4press.com/
-Text Domain: gd-bbpress-toolbox-lightbox
+Plugin Name:       GD bbPress Toolbox Pro: Lightbox
+Plugin URI:        https://plugins.dev4press.com/gd-bbpress-toolbox/
+Description:       Simple Lightbox implementation using responsive lightbox 'Swipebox' implementation for the GD bbPress Toolbox Pro attachments images.
+Author:            Milan Petrovic
+Author URI:        https://www.dev4press.com/
+Text Domain:       gd-bbpress-toolbox-lightbox
+Version:           1.4
+Requires at least: 5.0
+Tested up to:      5.6
+Requires PHP:      7.0
+License:           GPLv3 or later
+License URI:       https://www.gnu.org/licenses/gpl-3.0.html
 
 == Copyright ==
-Copyright 2008 - 2020 Milan Petrovic (email: milan@gdragon.info)
+Copyright 2008 - 2021 Milan Petrovic (email: support@dev4press.com)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

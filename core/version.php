@@ -7,9 +7,9 @@ if ( ! defined( 'ABSPATH' ) ) {
 class gdbbx_lightbox_core_info {
 	public $code = 'gd-bbpress-toolbox-lightbox';
 
-	public $version = '1.3';
-	public $build = 760;
-	public $updated = '2020.12.10';
+	public $version = '1.4';
+	public $build = 780;
+	public $updated = '2021.02.02';
 	public $status = 'stable';
 	public $edition = 'pro';
 	public $url = 'https://plugins.dev4press.com/gd-bbpress-toolbox/';

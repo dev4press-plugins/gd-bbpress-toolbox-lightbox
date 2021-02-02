@@ -1,6 +1,6 @@
 === GD bbPress Toolbox Pro: Lightbox ===
 Contributors: GDragoN
-Version: 1.3
+Version: 1.4
 Requires at least: 5.0
 Requires PHP: 7.0
 Tested up to: 5.6
@@ -17,16 +17,15 @@ Simple Lightbox implementation using responsive lightbox 'Swipebox' implementati
 = General Requirements =
 * PHP: 7.0 or newer
 * GD bbPress Toolbox Pro: 5.5 or newer
-* bbPress 2.5 or newer
+* bbPress 2.6.2 or newer
 * WordPress: 5.0 or newer
 
 = PHP Notice =
-* Plugin should work with PHP 5.3 to 5.6 but these versions are no longer used for testing, and they are no longer supported.
-* Plugin doesn't work with PHP 5.2 or older versions.
+* Plugin doesn't work with PHP 5.6 or older versions.
 
 = WordPress Requirements =
 * WordPress: 5.0 or newer
-* bbPress 2.5 or newer
+* bbPress 2.6.2 or newer
 
 = WordPress Notice =
 * Plugin should work with WordPress 4.0 to 4.9 but these versions are no longer used for testing, and they are no longer supported.
