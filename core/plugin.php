@@ -7,7 +7,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 class gdbbx_lightbox_core_plugin {
 	public function __construct() {
 		add_action( 'gdbbx_plugin_settings_loaded', array( $this, 'settings' ) );
-		add_action( 'gdbbx_modules_enqueue', array( $this, 'enqueue' ) );
+		add_action( 'gdbbx_enqueue_done_core', array( $this, 'enqueue' ) );
 	}
 
 	public function settings() {
